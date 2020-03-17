@@ -1,16 +1,10 @@
 
-message.json
 FamilyTree.pptx
-FamilyChat.html
 Change Names.ipynb
-toDelete/messagev2.json
-toDelete/sonnets.txt
-toDelete/text_generator_400_0.2_400_0.2_baseline.h5
 .ipynb_checkpoints/FamilyChat-checkpoint.ipynb
 .ipynb_checkpoints/Change Names-checkpoint.ipynb
-old/message_old.json
-old/messages.pkl
-old/FamilyChat.ipynb
-messages.pkl
-messages.pkl
+old/
+toDelete/
+FamilyChat.html
+message.json
 messages.pkl
